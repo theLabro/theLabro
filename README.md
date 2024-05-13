@@ -1,32 +1,69 @@
-![MasterHead](https://hgtechinc.net/img/banner-2.jpg)
-<h1 align="center">Hey 👋 this is Rishipratim Karmakar</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theLabro.theLabro" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hey+There+👋;+This+is+Rishipratim+Karmakar;" />
+</h1>
+
 <h3 align="center">A passionate frontend developer and android-os tester :)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <a href="https://twitter.com/itslabro" target="blank"><img src="https://img.shields.io/twitter/follow/itslabro?logo=twitter&style=for-the-badge" alt="itslabro" /></a> </p>
+<br/>
 
-- 🔭 currently working on **AI Projects**
+<div align="center">
+ 
+ 🔭 I’m currently working on **AI Projects**
+ 
+ 🌱 I’m currently learning **Python, Java, React**
 
-- 🌱 currently learning **React, Python, Java etc.**
+💬 You can ask me about **Android OS or anything [here](https://github.com/theLabro/theLabro/issues)**
 
-- 💬 You can ask me about **Android OS**
+ 📄 Know about my experiences : [https://rb.gy/0379di](https://rb.gy/0379di)
+ <hr/>
 
-- 📫  You can reach me here **heyitslabro@gmail.com**
-
-- 📄 Know about my experiences [https://rb.gy/0379di](https://rb.gy/0379di)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itslabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itslabro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishipratim karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishipratim karmakar" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="mailto:rishipratimkarmakar2002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="itslabro" height="40" width="40" /></a>
+<a href="https://twitter.com/itslabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg" alt="itslabro" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/rishipratim karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="rishipratim karmakar" height="40" width="40" /></a>
 <a href="https://kaggle.com/rishipratimkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishipratimkarmakar" height="30" width="40" /></a>
-<a href="https://fb.com/rishipratim karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishipratim karmakar" height="30" width="40" /></a>
-<a href="https://instagram.com/itsfficial_rishi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsfficial_rishi_" height="30" width="40" /></a>
+<a href="https://fb.com/rishipratim karmakar" target="blank"><img align="center" src="https://mnpersonalizedmedicine.com/wp-content/uploads/2023/11/vecteezy_facebook-png-icon_16716481-300x300.png" alt="rishipratim karmakar" height="40" width="40" /></a>
+<a href="https://instagram.com/itsfficial_rishi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="itsfficial_rishi_" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="49" height="49"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelabro&show_icons=true&locale=en&layout=compact" alt="thelabro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelabro&show_icons=true&locale=en" alt="thelabro" /></p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+</div>
+
+<br/>
+<hr/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thelabro&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelabro&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
