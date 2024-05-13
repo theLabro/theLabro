@@ -16,7 +16,7 @@
 
 💬 You can ask me about **Android OS or anything [here](https://github.com/theLabro/theLabro/issues)**
 
- 📄 Know about my experiences : [https://rb.gy/0379di](https://rb.gy/0379di)
+ 📄 Know about my experiences : https://rb.gy/fgfeos
  <hr/>
 
 <h3 align="center">Connect with me:</h3>
