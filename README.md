@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **AI Projects**
  
- 🌱 I’m currently learning **Python, Java, React**
+ 🌱 I’m currently learning **Python, Java, Frameworks, React**
 
 💬 You can ask me about **Android OS or anything [here](https://github.com/theLabro/theLabro/issues)**
 
