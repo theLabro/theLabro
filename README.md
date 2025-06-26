@@ -32,20 +32,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-    <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="49" height="49"/> 
-  <img src="https://skillicons.dev/icons?i=mysql" />
-
-
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java" />
+    <br>
+  <img src="https://skillicons.dev/icons?i=powershell,mysql" />
+    <br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,notion" />
 </div>
-
-<br/>
-<hr/>
-
-<hr/>
-
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
