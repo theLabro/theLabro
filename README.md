@@ -41,6 +41,12 @@
   <img src="https://skillicons.dev/icons?i=vscode,github,figma,notion" />
 </div>
 <hr>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
