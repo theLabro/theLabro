@@ -129,7 +129,7 @@
         • Animated particle/orb backgrounds
       </p>
       <p>
-        <a href="#">Live Demo</a> · <a href="#">Repository</a>
+        <a href="https://phishguard.qzz.io">Live Demo</a> · <a href="https://github.com/theLabro/PhishGuard---Verify-Before-You-Trust">Repository</a>
       </p>
     </td>
   </tr>
