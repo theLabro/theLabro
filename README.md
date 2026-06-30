@@ -112,7 +112,7 @@
         • Autosave via localStorage
       </p>
       <p>
-        <a href="#">Live Demo</a> · <a href="https://github.com/theLabro/Foliqo">Repository</a>
+        <a href="https://foliqo.vercel.app">Live Demo</a> · <a href="https://github.com/theLabro/Foliqo">Repository</a>
       </p>
     </td>
     <td width="50%" valign="top">
